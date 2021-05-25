@@ -1,4 +1,4 @@
-#2021-05-25 git
+#2021-05-25 GIT
 - `git init` : initialize git repo in current location
 - `git status` : gives you the status
 - `git commit -m`: "MESSAGE": commit without opening editor
@@ -10,7 +10,7 @@
 - `git push <WHERE> <WHAT>` : local repo -> remote repo
 
 
-## Branches
+## BRANCHES
 
 How to fix master to main
 1. `git checkout -b main`
